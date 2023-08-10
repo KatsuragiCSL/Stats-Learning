@@ -2,16 +2,15 @@
 This is a place to share my works on open Stats courses, books and exercises. This is aimed to record my learning path 
 
 **Course list**
-| Course      | Learning point | Status     | Works	|
-| :---        | :----          | :---       | :---	|
-| [Stat 20: Introduction to Probability and Statistics](https://www.stat20.org/)	|	Introduction to statistics	|	Not started	|
+| Course      | Learning point | Status     |
+| :---        | :----          | :---       |
+| [Stat 20: Introduction to Probability and Statistics](https://www.stat20.org/)	|	Introduction to statistics	|	In progress	|
 | [Statistics](https://www.amazon.com/Statistics-4th-David-Freedman/dp/0393929728)	|	place holder	|	Not started	|
 | [MIT 18.600 Probability And Random Variables](https://ocw.mit.edu/courses/18-600-probability-and-random-variables-fall-2019/)      | Probability and Statistics      | Not started   |
 | [MIT 18.175 Theory Of Probability](https://ocw.mit.edu/courses/18-175-theory-of-probability-spring-2014/)      | Probability and Statistics      | Not started   |
 | [MIT 18.445 Introduction To Stochastic Processes](https://ocw.mit.edu/courses/18-445-introduction-to-stochastic-processes-spring-2015/)      | Stochastic process      | Not started   |
 | [MIT 15.070J Advanced Stochastic Processes](https://ocw.mit.edu/courses/15-070j-advanced-stochastic-processes-fall-2013/)      | Stochastic process      | Not started   |
 | [STAT 432 Basics of Statistical Learning](https://stat432.org/)	|	Machine learning statistical POV	|	Not started	|
-
 | | |
 | [All of Statistics: A Concise Course in Statistical Inference](https://www.amazon.com/All-Statistics-Statistical-Inference-Springer/dp/1441923225)	|	place holder	|	Not started	|
 | [All of Nonparametric Statistics](https://www.amazon.com/All-Nonparametric-Statistics-Springer-Texts/dp/0387251456)	|	Nonparametric statistics	|	Not started	|
