@@ -11,6 +11,7 @@ This is a place to share my works on open Stats courses, books and exercises. Th
 | [MIT 18.445 Introduction To Stochastic Processes](https://ocw.mit.edu/courses/18-445-introduction-to-stochastic-processes-spring-2015/)      | Stochastic process      | Not started   |
 | [MIT 15.070J Advanced Stochastic Processes](https://ocw.mit.edu/courses/15-070j-advanced-stochastic-processes-fall-2013/)      | Stochastic process      | Not started   |
 | [STAT 432 Basics of Statistical Learning](https://stat432.org/)	|	Machine learning statistical POV	|	Not started	|
+| [Statistics 210A: Theoretical Statistics](https://www.stat.berkeley.edu/~wfithian/courses/stat210a/)	|	Graduate stats	|	Not Started	|	
 | | |
 | [All of Statistics: A Concise Course in Statistical Inference](https://www.amazon.com/All-Statistics-Statistical-Inference-Springer/dp/1441923225)	|	place holder	|	Not started	|
 | [All of Nonparametric Statistics](https://www.amazon.com/All-Nonparametric-Statistics-Springer-Texts/dp/0387251456)	|	Nonparametric statistics	|	Not started	|
