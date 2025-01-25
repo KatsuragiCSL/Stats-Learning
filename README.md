@@ -1,9 +1,9 @@
-# Open-Stats-Courses-works
-This is a place to share my works on open Stats courses, books and exercises. This is aimed to record my learning path 
+# Stats Learning
+Learning catalogs on Stats courses, books etc.
 
 **Course list**
-| Course      | Learning point | Status     |
-| :---        | :----          | :---       |
+| Course/Book      | Category | Status     |    Comments        |
+| :---        | :----          | :---       |   :---            |
 | [Stat 20: Introduction to Probability and Statistics](https://www.stat20.org/)	|	Introduction to statistics	|	In progress	|
 | [Statistics](https://www.amazon.com/Statistics-4th-David-Freedman/dp/0393929728)	|	place holder	|	Not started	|
 | [MIT 18.600 Probability And Random Variables](https://ocw.mit.edu/courses/18-600-probability-and-random-variables-fall-2019/)      | Probability and Statistics      | Not started   |
